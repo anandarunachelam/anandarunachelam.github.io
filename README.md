@@ -1,4 +1,4 @@
-# Skills
+# Technical Skills
 Python, SQL, Data Governance, Power Excel (Power Query, Power Pivot, DAX), MS Power BI, VPA, Cloud Computing
 
 # Professional Summary
